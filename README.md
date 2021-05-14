@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pyasuda
-- 👀 I’m interested in Azure VM templates
+- 👀 I’m interested in Azure ARM templates
 - 🌱 I’m currently learning github, VSCode, Azure JSON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
